@@ -48,5 +48,7 @@ This project is licensed under the MIT License.
 
 
 ![Screenshot 2024-12-22 235833](https://github.com/user-attachments/assets/18ea5a4e-2dcf-42e1-857b-3d0ac03a05f4)
+![Screenshot 2024-12-08 185132](https://github.com/user-attachments/assets/db2fae66-8c0a-4bdb-9248-a9f8a80a101a)
+
 
 
