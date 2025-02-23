@@ -15,7 +15,7 @@ Installation
 
       Clone the repository:
       
-          git clone <https://github.com/MNandini01/Customer-Support-Chatbot-using-Machine-learning-/>
+          git clone <https://github.com/MNandini01/Customer-Support-Chatbot-using-Machine-learning-.git>
       
       Navigate to the project folder:
       
